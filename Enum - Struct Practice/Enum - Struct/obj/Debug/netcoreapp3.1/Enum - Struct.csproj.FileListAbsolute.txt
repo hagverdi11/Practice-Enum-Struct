@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\bin\Debug\netcoreapp3.1\Enum - Struct.exe
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\bin\Debug\netcoreapp3.1\Enum - Struct.deps.json
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\bin\Debug\netcoreapp3.1\Enum - Struct.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\bin\Debug\netcoreapp3.1\Enum - Struct.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\bin\Debug\netcoreapp3.1\Enum - Struct.dll
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\bin\Debug\netcoreapp3.1\Enum - Struct.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\obj\Debug\netcoreapp3.1\Enum - Struct.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\obj\Debug\netcoreapp3.1\Enum - Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\obj\Debug\netcoreapp3.1\Enum - Struct.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\obj\Debug\netcoreapp3.1\Enum - Struct.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\obj\Debug\netcoreapp3.1\Enum - Struct.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\obj\Debug\netcoreapp3.1\Enum - Struct.dll
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\obj\Debug\netcoreapp3.1\Enum - Struct.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 12 Enum - Struct Practice\Enum - Struct Practice\Enum - Struct\obj\Debug\netcoreapp3.1\Enum - Struct.genruntimeconfig.cache
